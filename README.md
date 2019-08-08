@@ -1,4 +1,4 @@
-# ⚗️ Rick and Morty API 
+# 👽 Rick and Morty API 
 # React Front End Application
 
 A simple front end in React that uses a fetch call from the [Rick & Morty API](http://rickandmortyapi.com) to display data in a flexbox grid. Built with `create-react-app`. Data from the API allows you to click and explore more information about Rick and Morty characters.
