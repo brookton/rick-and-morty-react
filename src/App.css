@@ -1,0 +1,35 @@
+.App {
+  padding: 20px;
+}
+.main-container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+}
+
+.card-container {
+  width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.card {
+  width: 300px;
+  height: max-content;
+  box-shadow: 5px 5px 5px rgb(114, 114, 114);
+  border-radius: 5px;
+  padding: 10px;
+  background-color: rgb(46, 46, 46);
+  color: whitesmoke;
+  margin-bottom: 10px;
+}
+
+.card img {
+  max-width: 100%;
+}
+
+.attributes-container {
+  border: 2px solid greenyellow;
+  padding: 10px;
+}
