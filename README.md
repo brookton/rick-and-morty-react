@@ -1,16 +1,16 @@
-#⚗️ Rick and Morty API 
-##🖥 React Front End Application
+# ⚗️ Rick and Morty API 
+## 🖥 React Front End Application
 
 A simple front end in React that uses a fetch call from the [Rick & Morty API](http://rickandmortyapi.com) to display data in a flexbox grid. Built with `create-react-app`.
 
-#:cowboy_hat_face: Demo
+# :cowboy_hat_face: Demo
 
-[Click here for the demo!]()
+[Click here for the deployed demo!](https://rick-and-morty-react.netlify.com)
 
-##📷 Screenshot
+## 📷 Screenshot
 ![Alt text](./public/screenshot.gif?raw=true "Rick and Morty React API Screenshot GIF")
 
-#🔧 Built with
+# 🔧 Built with
 
 - [React](https://reactjs.org)
 - [Rick & Morty API](http://rickandmortyapi.com)
@@ -25,7 +25,7 @@ A simple front end in React that uses a fetch call from the [Rick & Morty API](h
 4. run `npm install`
 5. run `npm start` :tada:
 
-##👨‍💻Authors
+## 👨‍💻Authors
 
 [David Brookton](https://davidbrookton.com)
 [Damon Chivers](https://github.com/DamonLC21)
